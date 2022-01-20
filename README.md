@@ -11,7 +11,7 @@ npm start
 ````
 
 ## Contributing
-Pull requests are welcome, please make sure to update tests as appropriate.
+Pull requests are welcome, please make this code better! You can reach me on [Open](https://open.rocket.chat/direct/luis.hlatki)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
